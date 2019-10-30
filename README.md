@@ -24,11 +24,12 @@ b4c2
 going for 10 points
 
 MASTER c1  
-MASTER c2
-MASTER c3
-MASTER c4
-MASTER c5
-MASTER c6
+MASTER c2  
+MASTER c3  
+MASTER c4  
+MASTER c5  
+MASTER c6  
+MASTER c7  
 
 b5 c1  
 b5 c2  
