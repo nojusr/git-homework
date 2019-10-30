@@ -28,6 +28,7 @@ MASTER c2
 
 b5 c1  
 b5 c2  
+b5 c3  
 
 b6c1  
 
