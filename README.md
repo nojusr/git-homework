@@ -10,4 +10,4 @@ this was added in b2
 going for 7 points
 
 
-b4, b4c1
+b4, b4c1, b4c2
