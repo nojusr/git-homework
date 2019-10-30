@@ -11,3 +11,4 @@ going for 7 points
 
 b3
 b3 c2
+b3 c3
