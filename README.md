@@ -11,6 +11,7 @@ going for 7 points
 
 MASTER
 MASTER c2
+MASTER c3
 
 b3
 b3 c2
