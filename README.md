@@ -24,4 +24,6 @@ b4c2
 going for 10 points
 
 MASTER c1  
-MASTER c2
+MASTER c2  
+
+b6c1  
