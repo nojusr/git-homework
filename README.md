@@ -13,5 +13,9 @@ MASTER
 MASTER c2
 MASTER c3
 
+b3
+b3 c2
+b3 c3
+
 b4, b4c1, b4c2
 
